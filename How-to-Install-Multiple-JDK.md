@@ -14,7 +14,7 @@
   Download the JDK installer from https://www.oracle.com/java/technologies/javase-downloads.html, and install it.
   The JDK should be installed on the path: /Library/Java/JavaVirtualMachines/jdk1.xx.0.jdk
 2. Add JAVA_HOME in .bashrc file.  
-   **- open bashrc file**
+   **- open bashrc file**  
    ` vim ~/.bash_profile `   
    *add the JAVA_HOME:*
    
@@ -23,8 +23,9 @@
    export JAVA_11_HOME=/Library/Java/JavaVirtualMachines/jdk1.11.0.jdk/Contents/Home  
    export JAVA_HOME=$JAVA_8_HOME  
    ```
-   **- save bashrc file ** 
+   **- save bashrc file **   
    ` source ~/.bash_profile ` 
+   
 3. Create alias for switching the JAVA_HOME
 
   ```
