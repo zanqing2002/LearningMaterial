@@ -42,7 +42,7 @@
   
   
   
-* 配置.bash_profile重启后不生效问题解决
+### 配置.bash_profile重启后不生效问题解决
 ```
 % vim ~/.zshrc
 
