@@ -16,7 +16,7 @@
 2. Add JAVA_HOME in .bashrc file.  
    **- open bashrc file**  
    ` vim ~/.bash_profile `   
-   *add the JAVA_HOME:*
+   **- add the JAVA_HOME:**
    
    ``` 
    export JAVA_8_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home  
