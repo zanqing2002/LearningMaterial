@@ -3,7 +3,7 @@
 ## Agenda
 
 + JAVA 
-  + How to install multiple JDK versions
+  + [How to install multiple JDK versions](https://github.com/zanqing2002/LearningMaterial/blob/main/How-to-Install-Multiple-JDK.md)
   + 
 + Git
-  + How to connect to Github 
+  + [How to connect to Github ](https://github.com/zanqing2002/LearningMaterial/blob/main/How-to-connect-to-Github.md)
