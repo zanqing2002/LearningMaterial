@@ -1,2 +1,5 @@
-#How to install multiple JDK versions
+# How to install multiple JDK versions
 
+### - Check the current JDK informaiton
+  ' java -version '
+  ' which java' 
