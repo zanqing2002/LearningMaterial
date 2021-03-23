@@ -15,7 +15,7 @@
   The JDK should be installed on the path: /Library/Java/JavaVirtualMachines/jdk1.xx.0.jdk
 2. Add JAVA_HOME in .bashrc file.  
    **- open bashrc file**
-   ` vim ~/.bash_profile ` 
+   ` vim ~/.bash_profile `   
    *add the JAVA_HOME:*
    ``` 
    export JAVA_8_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home  
