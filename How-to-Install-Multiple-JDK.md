@@ -16,6 +16,7 @@
 2. Add JAVA_HOME in .bashrc file.  
    **- open bashrc file**  
    ` vim ~/.bash_profile `   or `open -e .bash_profile`
+   
    **- add the JAVA_HOME:**
    
    ``` 
