@@ -3,3 +3,6 @@
   
 > Add the IP address list into it
   ``` sudo vim /etc/hosts ```
+
+> Refresh DNS if required
+ ``` sudo killall -HUP mDNSResponder ```
