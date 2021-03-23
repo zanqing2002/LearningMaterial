@@ -22,5 +22,24 @@
    export JAVA_11_HOME=/Library/Java/JavaVirtualMachines/jdk1.11.0.jdk/Contents/Home  
    export JAVA_HOME=$JAVA_8_HOME  
    ```
-   **- open bashrc file**
-   ` vim ~/.bash_profile ` 
+   **- save bashrc file **
+   ` source ~/.bash_profile ` 
+3. Create alias for switching the JAVA_HOME
+  ```
+  alias jdk8='export JAVA_HOME=$JAVA_8_HOME'  
+  alias jdk11='export JAVA_HOME=$JAVA_11_HOME' 
+  ```
+4. Try it!
+```
+
+
+
+```
+  
+* 配置.bash_profile重启后不生效问题解决
+```
+% vim ~/.zshrc
+
+#在文件最后，增加一行：
+source ~/.bash_profile
+```
