@@ -1,6 +1,6 @@
 
 
-> git remote: warning: Large files detected. 
+- ## git remote: warning: Large files detected. 
 
 remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
 remote: error: File .sus-sm-rdp-core_mta_build_tmp/sus-sm-rdp-core-mtx-sidecar/data.zip is 108.53 MB; this exceeds GitHub Enterprise's file size limit of 100.00 MB
