@@ -10,3 +10,5 @@
   + [Git Learning Notes](https://github.com/zanqing2002/LearningMaterial/blob/main/Git-Learning-Notes.md)
 + CAP
   + [Multitenancy via CAP  - Configuration Guide](https://)
++ Product Standard
+  + [Data Privacy Protection ](https://github.com/zanqing2002/LearningMaterial/blob/main/Implement%20DPP%20Requirement%20via%20DPI)
