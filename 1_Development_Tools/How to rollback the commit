@@ -1,0 +1,10 @@
+How to rollback the commit
+
+git reset回滚到指定的commit_id版本，之后所提交的内容会被全部丢弃
+-使用git log查看当前提交的历史内容，如上图所示的。
+
+-根据回滚版本所对应的 commit SHA-1值(commit后面的一串数字)来进行回滚操作:
+git reset --hard 7ca0f0f296
+
+-此时本地代码落后于远程代码，如果需要将回滚后的本地代码Push到远程代码仓，需要使用--force以强制Push到远程代码仓：
+git push --force
